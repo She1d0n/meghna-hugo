@@ -3,16 +3,53 @@ title: "Simple Blog Post"
 date: 2018-09-12T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+author: 舒婷
+description : "致橡树"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+我如果爱你——
+绝不像攀援的凌霄花，
+借你的高枝炫耀自己；
+我如果爱你——
+绝不学痴情的鸟儿，
+为绿荫重复单调的歌曲；
+也不止像泉源，
+常年送来清凉的慰藉；
+也不止像险峰，
+增加你的高度，
+衬托你的威仪。
+甚至日光，
+甚至春雨。
+不，
+这些都还不够！
+我必须是你近旁的一株木棉，
+作为树的形象和你站在一起。
+根，
+紧握在地下；
+叶，
+相触在云里。
+每一阵风过，
+我们都互相致意，
+但没有人，
+听懂我们的言语。
+你有你的铜枝铁干，
+像刀，
+像剑，
+也像戟；
+我有我红硕的花朵，
+像沉重的叹息，
+又像英勇的火炬。
+我们分担寒潮、
+风雷、
+霹雳；
+我们共享雾霭、
+流岚、
+虹霓。
+仿佛永远分离，
+却又终身相依。
+这才是伟大的爱情，
+坚贞就在这里：
+爱——
+不仅爱你伟岸的身躯，
+也爱你坚持的位置，
+足下的土地。
